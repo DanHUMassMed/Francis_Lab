@@ -1,0 +1,10 @@
+{
+    "title":"Analysis for Francis lab",
+    "process_date":"Aug--2023",
+    "prepared_by":"Dan Higgins (daniel.higgins@umassmed.edu)",
+    "prepared_for":["Mike Francis (michael.francis@umassmed.edu)","Kasturi Biswas (Kasturi.Biswas@umassmed.edu)"],
+    "dropbox_folder":"",
+    "wormbase_version":"WS289",
+    "github_release":"https://github.com/DanH-UMassMed/RNA-Seq-Nextflow",
+    "github_tag":"v1.0.2"
+}

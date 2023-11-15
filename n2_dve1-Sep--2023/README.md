@@ -16,3 +16,7 @@ FASTQ files
 
 https://www.dropbox.com/scl/fo/e2pjuq0svsl14mx6bjgys/h?rlkey=jxs5e4dv0xddvjvck2dit6m9q&dl=0
 
+
+### Example commandline
+
+`nextflow -c conf/experiment.config run  /home/daniel.higgins-umw/project_data/RNA-Seq-Nextflow/main.nf `

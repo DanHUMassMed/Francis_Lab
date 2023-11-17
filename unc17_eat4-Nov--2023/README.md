@@ -1,22 +1,28 @@
 # unc17 eat4 Nov 2023
 
-DESeq2 
-Lib_name		group
-======================
-N2_set5			Cond1
-N2_set6			Cond1
-eat4_ky5_set5	Cond2
-eat4_ky6_set7	Cond2
 
-e113_set5		Cond1
-e113_set6		Cond1
-eat4_ky5_set5	Cond2
-eat4_ky6_set7	Cond2
+### Nextflow Experiments for the Francis Lab
 
+* This is my data from whole worm RNA seq conducted in March 2023 with L4 animals.
 
+* Each genotype (N2, eat-4(ky5) and unc-17(e113)) has 3 replicates annotated as r2,r3 and r4 (r stands for replicate number). 
+
+* Each replicate for each genotype contains two FASTQ files, 1 is the forward/leading strand and 2 is the reverse/antisense strand.
+
+* For example, N2_r2_2.fq.gz file is for antisense strand of N2 worms, replicate number 2.
 
 ---
 
-### Original data output 
+* unc-17 animals are deficient in acetylcholine release
+* eat-4 animals are deficient in glutamate release. 
+
+<br>
+
+We are hoping to see whether genes involved in redox homeostasis are impacted, but any changes would be interesting since RNA-seq results for these animals aren’t currently available.
+
+### Notes:
+
+* This Pipeline __was last run Nov, 16 2023 on RNA-Seq-Nextflow -r v1.0.6__
+
 
 

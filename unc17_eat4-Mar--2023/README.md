@@ -1,5 +1,7 @@
 # unc17 eat4 March 2023
 
+### Background
+
 * This is my data from whole worm RNA seq conducted in March 2023 with L4 animals.
 
 * Each genotype (N2, eat-4(ky5) and unc-17(e113)) has 3 replicates annotated as r2,r3 and r4 (r stands for replicate number). 
@@ -16,3 +18,9 @@
 <br>
 
 We are hoping to see whether genes involved in redox homeostasis are impacted, but any changes would be interesting since RNA-seq results for these animals aren’t currently available.
+
+### Notes:
+
+* This pipeline was __not initially run from this configuration__ it was run directly from `RNA-Seq-Nextflow -r v1.0.2`
+
+* The run output data can be found: https://www.dropbox.com/scl/fo/kiwy15rqfvtrssfw6ti2v/h?rlkey=sjgd1b72jkiljisdrbz4e2dkk&dl=0

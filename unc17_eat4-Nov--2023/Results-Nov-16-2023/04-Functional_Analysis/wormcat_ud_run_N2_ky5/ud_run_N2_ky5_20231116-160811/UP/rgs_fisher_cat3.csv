@@ -1,0 +1,76 @@
+"","Category","RGS","AC","PValue"
+"45","Stress response: C-type Lectin",18,256,1.20843840309052e-12
+"46","Stress response: detoxification: CYP",9,82,1.24840302255646e-08
+"55","Stress response: pathogen: unassigned",8,96,5.59339312014649e-07
+"28","Proteolysis general: cysteine: cathepsin",4,19,1.51663441657806e-05
+"9","Lysosome: acid phosphatase",4,31,8.41301939114084e-05
+"3","Cytoskeleton: intermediate filament protein",3,12,0.000122254418981146
+"47","Stress response: detoxification: ugt",5,69,0.000138849222559108
+"62","Transcription: chromatin structure: histone",5,85,0.000346781425505965
+"75","Unassigned: regulated by multiple stresses",25,1707,0.000446613910021792
+"52","Stress response: pathogen: lysozyme",2,4,0.000635589213229616
+"14","Metabolism: lipid: lipase",3,27,0.00101263427353863
+"20","Metabolism: polyamine",2,7,0.00150538156385178
+"31","Proteolysis general: metallopeptidase",5,123,0.0016943400386571
+"27","Proteolysis general: aspartate: unassigned",2,11,0.00320478887431188
+"30","Proteolysis general: lysozyme",2,11,0.00320478887431188
+"53","Stress response: pathogen: saposin ",2,14,0.00486595800333868
+"26","Proteolysis general: aspartate: cathepsin",2,22,0.0108068304932191
+"11","Metabolism: lipid: beta oxidation",3,78,0.0165740097239966
+"10","Metabolism: carbohydrate",3,83,0.0194041899434804
+"54","Stress response: pathogen: ShK",1,3,0.0259482221311466
+"16","Metabolism: lipid: sphingolipid",2,44,0.0368390691277006
+"56","Stress response: unassigned",2,49,0.0444162148884451
+"66","Transmembrane transport: ABC",2,50,0.0459950331977801
+"39","Signaling: lipid: phospholipase C",1,7,0.0512199662941663
+"63","Transmembrane protein: seven transmembrane receptor: srr",1,9,0.0636077145427795
+"29","Proteolysis general: cysteine: unassigned",1,10,0.0697405122106156
+"5","Development: apoptosis",2,64,0.0700842298141795
+"6","Extracellular material: matrix",2,67,0.0756805944061338
+"13","Metabolism: lipid: fatty acid",2,68,0.0775765544884783
+"43","Signaling: unassigned",2,70,0.0814125455070424
+"38","Signaling: lipid: phospholipase B",1,13,0.0878978178409884
+"57","Trafficking: unassigned",1,14,0.0938707742379171
+"4","Cytoskeleton: unassigned",2,77,0.0952727685343416
+"49","Stress response: heavy metal",1,16,0.10569904092955
+"61","Transcription: chromatin modification: acetyltransferase",1,16,0.10569904092955
+"68","Transmembrane transport: lipid",1,16,0.10569904092955
+"42","Signaling: TGF beta",1,17,0.111554869181458
+"36","Signaling: hedgehog-like",2,89,0.120400896316522
+"22","Metabolism: unassigned",3,192,0.137712171590739
+"2","Cytoskeleton: actin function: binding",1,23,0.145889614058631
+"58","Transcription factor: bZIP",1,24,0.151481038786331
+"51","Stress response: pathogen: CUB",1,25,0.157035683641687
+"1","Cell cycle: unassigned",1,26,0.162553791714743
+"50","Stress response: oxidative",1,28,0.173481361813409
+"74","Unassigned: hydrolase",1,29,0.17889130199063
+"48","Stress response: heat",1,30,0.184265661710099
+"70","Transmembrane transport: potassium channel",2,121,0.193213275114493
+"40","Signaling: MAPK",1,32,0.194908578716809
+"32","Proteolysis general: serine",1,34,0.205411975166415
+"8","Globin",1,36,0.215777688744826
+"21","Metabolism: short chain dehydrogenase",1,42,0.246066746259188
+"67","Transmembrane transport: chloride channel",1,44,0.255899623651469
+"41","Signaling: small GTPase: Rho/Rac",1,46,0.265603648215966
+"72","Transmembrane transport: unassigned",1,51,0.289311056860445
+"7","Extracellular material: secreted protein",1,54,0.303164814041815
+"37","Signaling: heteromeric G protein: receptor",1,54,0.303164814041815
+"15","Metabolism: lipid: o-acyl transferase",1,56,0.312249578088125
+"17","Metabolism: lipid: sterol",1,59,0.325654081268237
+"23","Muscle function",1,62,0.33879608849071
+"12","Metabolism: lipid: binding",1,67,0.36013009053948
+"33","Proteolysis general: unassigned",1,68,0.36431317136497
+"71","Transmembrane transport: solute carrier",2,197,0.374522622847059
+"18","Metabolism: mitochondria: unassigned",1,72,0.380772525403296
+"44","Signaling: Y kinase",1,73,0.384820019395576
+"69","Transmembrane transport: major facilitator",1,89,0.446081222686329
+"25","Nucleic acid: binding: unassigned",1,93,0.460414007308966
+"59","Transcription factor: homeodomain",1,97,0.474374182658911
+"60","Transcription factor: NHR",2,259,0.509656105325821
+"64","Transmembrane protein: seven transmembrane receptor: srw",1,109,0.514115103656571
+"19","Metabolism: nucleotide",1,111,0.5204387189871
+"65","Transmembrane protein: unassigned",10,1692,0.670423947113434
+"34","Proteolysis proteasome: E3: F box",2,437,0.780465339225473
+"73","Unassigned",17,4113,0.979392087244462
+"35","Pseudogene",3,2081,0.999831127119768
+"24","Non-coding RNA: ncRNA",1,7850,1

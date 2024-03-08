@@ -1,0 +1,5 @@
+{
+    "input": "samplesheet.csv",
+    "outdir": "results",
+    "genome": "WBcel235"
+}

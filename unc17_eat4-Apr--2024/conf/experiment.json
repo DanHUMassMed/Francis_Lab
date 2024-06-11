@@ -1,0 +1,11 @@
+{
+    "title":"Analysis for Francis lab",
+    "process_date":"Mar-29-2024",
+    "prepared_by":"Dan Higgins (daniel.higgins@umassmed.edu)",
+    "prepared_for":["Mike Francis (michael.francis@umassmed.edu)","Kasturi Biswas (kasturi.biswas@umassmed.edu)"],
+    "dropbox_folder":"Francis lab_KB_wholeworm RNAseq data_March 2023_Share AW lab/August 2023 experiment",
+    "wormbase_version":"WS289",
+    "pipeline_config":"https://github.com/DanH-UMassMed/Francis_Lab",
+    "github_release":"https://github.com/DanH-UMassMed/RNA-Seq-Nextflow",
+    "github_tag":"v1.0.6"
+}
